@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sunil Kumar HP, a support engineer.
+- 👀 I’m interested in scripting and problem-solving.
+- 🌱 I’m currently learning and improving my skills in various scripting languages and technologies.
+- 💞️ I’m looking to collaborate on projects related to automation, scripting, and IT support.
+- 📫 You can reach me at hpsunil1999@gmail.com for collaboration or any inquiries.
